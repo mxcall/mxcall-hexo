@@ -376,7 +376,7 @@
         - {
           title: 'Fluid Docs',
           intro: '主题使用指南',
-          link: 'https://hexo.fluid-dev.com/docs/',
+          link: 'https://hexo.fluid-dev.com/docs/guide/#%E4%B8%BB%E9%A2%98%E7%AE%80%E4%BB%8B',
           image: 'https://gitee.com/matrixcall/bed001/raw/master/hexo/img/favicon.png'
         }
         - {
