@@ -9,8 +9,9 @@ branches:
   - master
 
 install:
-  - npm install -g hexo
   - npm install -g hexo-cli
+  - hexo init blog
+  - cd blog
   - npm install
 
 script:
