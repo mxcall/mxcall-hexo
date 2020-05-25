@@ -30,7 +30,7 @@ after_script:
   - git add .
   - git commit -m "Travis CI Auto Builder at $(date +'%Y-%m-%d %H:%M:%S')"
   - git push --force --quiet "https://${GIT_REPO_TOKEN}@${GIT_REPO_REF}" master:master
-
+  - git push --force  "https://${GEE_USERNAME}:${GEE_PWD}@${GEE_REPO_REF}" master:master
 
 
 notifications:
