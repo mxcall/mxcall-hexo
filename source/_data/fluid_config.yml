@@ -107,6 +107,7 @@
         - { key: 'category', link: '/categories/', icon: 'iconfont icon-category-fill' }
         - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
         - { key: 'about', link: '/about/', icon: 'iconfont icon-user-fill' }
+        - { key: '留言', link: '/posts/comments/', icon: 'iconfont icon-twitch-fill' }
         - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }  # 友链页，把前面#去掉即可展示
     
     search: # 搜索栏
@@ -220,8 +221,8 @@
         specific: false  # 开启后，只有在文章 Front-matter 里指定 `mermaid: true` 才会在文章页启动公式转换，以便在页面不包含公式时提高加载速度
         options: { theme: 'default' }  # 接口选项，具体可见：http://mermaid-js.github.io/mermaid/#/mermaidAPI
       comments:  # 评论
-        enable: false  # 开启评论
-        type: disqus  # 指定使用的评论模块  available: disqus | valine | gitalk | utterances | changyan | livere  推荐 utterances
+        enable: true  # 开启评论
+        type: utterances  # 指定使用的评论模块  available: disqus | valine | gitalk | utterances | changyan | livere  推荐 utterances
     
     
     #---------------------------
@@ -234,11 +235,12 @@
     # utterances
     # You can install utterances with https://utteranc.es/ and generate your configuration
     utterances:
-      repo:
-      issue_term:
+      repo: mxcall/mx-comment
+      issue_term: pathname
       label: utterances
       theme: github-light
       crossorigin: anonymous
+      async: true
     
     # Disqus
     # 国内用户不要用，已被墙
