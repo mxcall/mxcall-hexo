@@ -22,7 +22,7 @@ picgo-plugin-compress
 https://github.com/JuZiSang/picgo-plugin-compress
 
 
-tinypng(在线压缩,  500张/月,用完了可以再去develop申请api)
+tinypng(在线压缩,  500张/月,用完了可以再去develop申请api, 有时候develop-api不稳定)
 
 https://tinypng.com/dashboard/api
 
