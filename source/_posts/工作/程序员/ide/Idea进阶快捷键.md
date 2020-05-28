@@ -23,6 +23,9 @@ index_img: https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/2020052816
 你仅仅需要记一个`神级` 快捷键就好了, 其它的记个英文关键字就OK了
 
 ### 神级快捷键
+效果1: 仅仅举例, 里面什么操作都可以, 输入关键字即可
+![](https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528162452.gif)
+
 
 打开命令面板
 
@@ -34,14 +37,16 @@ ctrl + shift + a
 
 
 
+
 ### 其它键
 
-效果1: 
+列操作效果1: 
 
 ![](https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528155311.webp)
 
-效果2: 
+列操作效果2: 
 ![](https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528155834.webp)
+
 
 添加下一个匹配项
 
