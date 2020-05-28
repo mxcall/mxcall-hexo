@@ -1,15 +1,10 @@
 ---
-
 title: Flink1.10Container环境实战(转载)
-
 date: 2020-05-28 08:00:00
-
 toc: true
-
 categories: [工作, 程序员, flink]
-
 tags: [flink, k8s, docker]
-
+index_img: https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528160605.jpg
 
 
 ---

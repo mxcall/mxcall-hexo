@@ -4,7 +4,7 @@ date: 2020-05-26 08:00:18
 toc: true
 categories: [娱乐, 软件使用]
 tags: [Hexo]
-
+index_img: https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528160919.png
 ---
 
 # 免费好用的图床Gitee

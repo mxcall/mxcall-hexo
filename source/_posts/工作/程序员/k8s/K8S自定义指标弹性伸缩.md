@@ -4,15 +4,13 @@ date: 2020-05-25 00:32:18
 toc: true
 categories: [工作, 程序员, k8s]
 tags: [k8s, docker]
-
+index_img: https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528160755.png
 ---
 
 
 # K8S自定义指标弹性伸缩
 
-| 作者 | 版本 | 日期 | 审核人 | 备注 |
-| ---- | :--: | :------: | :----: | :--: |
-| 危奇 | 1.0 | 20191023 | 黄歆 | 初稿 |
+
 
 ## 背景
 

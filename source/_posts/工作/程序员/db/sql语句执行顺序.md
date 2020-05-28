@@ -4,7 +4,7 @@ date: 2020-05-25 03:59:18
 toc: true
 categories: [工作, 程序员, db]
 tags: [sql]
-
+index_img: https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528161033.png
 ---
 
 # sql语句执行顺序

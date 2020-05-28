@@ -4,7 +4,7 @@ date: 2020-05-27 08:00:00
 toc: true
 categories: [工作, 程序员, k8s]
 tags: [k8s, docker]
-
+index_img: https://gitee.com/matrixcall/bed001/raw/master/img/2020/05/20200528160755.png
 ---
 
 
