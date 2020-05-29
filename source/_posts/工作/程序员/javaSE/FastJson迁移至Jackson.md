@@ -23,7 +23,7 @@ https://zhuanlan.zhihu.com/p/138215906
 
 ### 添加依赖
 
-Jackson版本等根据springboot版本来选, 因为我用的springboot版本较低, 所以用的 jackson版本也是2.8
+Jackson版本等根据springboot版本来选, 因为我用的springboot版本较低, 所以用的 jackson版本是2.8
 
 ```xml
 <properties>
