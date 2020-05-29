@@ -1,0 +1,5 @@
+
+<% if(theme.post.copyright.enable && theme.post.copyright.content) { %>
+    <p class="note note-warning"><%- theme.post.copyright.content %></p>
+    <img src="https://gitee.com/matrixcall/bed001/raw/master/hexo/img/wx_gzh.png" style="width:450px"/>
+<% } %>
