@@ -29,7 +29,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render: ".github/workflows/sync.yml"
+skip_render: [".github/workflows/sync.yml", "googledcc36e878f9ca401.html"]
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -106,3 +106,5 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+
