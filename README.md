@@ -1,4 +1,4 @@
-## 陆压的空间
+## 陆压的HUB
 
 - 个人博客: https://mxcall.github.io
 - 使用主题: https://github.com/fluid-dev/hexo-theme-fluid

@@ -100,7 +100,7 @@
     # Header
     #---------------------------
     navbar:
-      blog_title: 陆压的空间 # 导航栏左侧的标题，为空则按 hexo config.title 显示
+      blog_title: 陆压的HUB # 导航栏左侧的标题，为空则按 hexo config.title 显示
       menu:  # 可自行增减，key 用来关联 languages/*.yml，如不存在关联则显示 key 本身的值；icon 是 css class，可以省略；增加 name 可以强制显示指定名称
         - { key: 'home', link: '/', icon: 'iconfont icon-home-fill' }
         - { key: 'archive', link: '/archives/', icon: 'iconfont icon-archive-fill' }
@@ -150,13 +150,13 @@
     # Index Page
     #---------------------------
     index:
-      banner_img: https://gitee.com/matrixcall/bed001/raw/master/hexo/img/banner-light.png  # 首页 Banner 头图，以下相同
+      banner_img: https://gitee.com/matrixcall/bed001/raw/master/hexo/img/banner-xcdh.jpg  # 首页 Banner 头图，以下相同
       banner_img_height: 100  # 头图高度，屏幕百分比，available: 0 - 100
       banner_mask_alpha: 0.1  # 头图黑色蒙版的透明度，available: 0 - 1.0， 0 是完全透明（无蒙版），1 是完全不透明
       post_default_img: 'https://gitee.com/matrixcall/bed001/raw/master/hexo/img/post-img-light.png' # 默认的文章封面图，当没有指定 index_img 时会使用该图片，若都为空则不显示任何图片
       slogan:  # 首页副标题的独立设置
         enable: true  # 为 false 则不显示任何内容
-        text: '尚未佩妥剑，转眼便江湖，愿历尽千帆，归来仍少年'  # 为空则按 hexo config.subtitle 显示
+        text: '我们的征途是星辰大海 '  # 为空则按 hexo config.subtitle 显示
       auto_excerpt:
         enable: true
       post_url_target: _blank  # available: _blank | _self
@@ -339,7 +339,7 @@
       banner_mask_alpha: 0.1  # available: 0 - 1.0
       subtitle:  # 打字机内容
       avatar: https://gitee.com/matrixcall/bed001/raw/master/hexo/img/avatar.png # 头像
-      name: 陆压的空间
+      name: 陆压的HUB
       introduce: 大龄 / 焦虑 / 码农 # 支持 HTML
       icons: # 更多图标可从 https://github.com/fluid-dev/static/blob/master/hexo-theme-fluid/iconfont.png 查找，class 代表图标的 css class
         - { class: 'iconfont icon-github-fill', link: 'https://github.com/mxcall' }
